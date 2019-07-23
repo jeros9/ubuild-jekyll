@@ -17,23 +17,6 @@ page_sections:
     link_text: Unidad 3
   - link: "#"
     link_text: Unidad 4
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2019/07/23/upaded_png_2.png"
-  navigation:
-  - link: "/"
-    link_text: Bienvenidos
-  - link: "#"
-    link_text: Unidad 1
-  - link: "#"
-    link_text: Unidad 2
-  - link: "#"
-    link_text: Unidad 3
-  - link: ''
-    link_text: Unidad 4
-  cta:
-    url: ''
-    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: Técnico Superior Universitario en Administración y Comercio
