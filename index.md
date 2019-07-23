@@ -1,20 +1,22 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2019/07/23/logo upaded.png"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: Bienvenidos
   - link: "#"
-    link_text: Features
+    link_text: Unidad 1
   - link: "#"
-    link_text: Pricing
+    link_text: Unidad 2
   - link: "#"
-    link_text: Team
+    link_text: Unidad 3
+  - link: ''
+    link_text: Unidad 4
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
@@ -75,6 +77,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
