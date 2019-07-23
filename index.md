@@ -3,6 +3,20 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2019/07/23/upaded_png_2.png"
+  navigation:
+  - link: "#"
+    link_text: Bienvenidos
+  - link: "#"
+    link_text: Unidad 1
+  - link: "#"
+    link_text: Unidad 2
+  - link: "#"
+    link_text: Unidad 3
+  - link: "#"
+    link_text: Unidad 4
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/07/23/upaded_png_2.png"
