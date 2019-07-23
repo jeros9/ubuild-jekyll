@@ -75,7 +75,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Universidad Pública, Abierta y a Distancia del Estado de Durango
 
 ---
 foo bar
