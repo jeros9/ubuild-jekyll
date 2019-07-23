@@ -22,13 +22,12 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Técnico Superior Universitario en Administración y Comercio
+  content: Teorías económicas
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Bienvenidos
   image:
     image: "/uploads/2019/07/23/upaded_png_2.png"
     alt_text: UPADED
