@@ -1,4 +1,13 @@
 ---
 label: Animaciones
 hide_body: false
-fields: []
+fields:
+- name: animacion
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Animación
