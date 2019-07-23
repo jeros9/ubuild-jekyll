@@ -30,8 +30,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2019/07/23/logo upaded.png"
-    alt_text: Product Shot
+    image: "/uploads/2019/07/23/upaded_png_2.png"
+    alt_text: UPADED
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
