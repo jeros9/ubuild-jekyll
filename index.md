@@ -37,12 +37,8 @@ page_sections:
   media_alignment: Left
   headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
     class="light">the Blocks to create sites quickly</span>
-  content: '&lt;div style="width: 100%;"&gt;&lt;div style="position: relative; padding-bottom:
-    56.25%; padding-top: 0; height: 0;"&gt;&lt;iframe frameborder="0" width="1200px"
-    height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height:
-    100%;" src="<a href="https://view.genial.ly/5d37758b14e5230fc30e027f" title="https://view.genial.ly/5d37758b14e5230fc30e027f">https://view.genial.ly/5d37758b14e5230fc30e027f</a>"
-    type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes"
-    allownetworking="all"&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;'
+  content: <a href="https://view.genial.ly/5d37758b14e5230fc30e027f/horizontal-infographic-lists-untitled-genially"
+    title="horizontal-infographic-lists-untitled-genially">horizontal-infographic-lists-untitled-genially</a>
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
